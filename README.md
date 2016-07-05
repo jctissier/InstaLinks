@@ -6,4 +6,4 @@ Stream any TV Shows or Movies
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jctissier/InstaLinks/blob/master/LICENSE)
 
 
-[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jctissier/Euro2016_TerminalApp/issues?q=is%3Aopen+is%3Aissue)
+[![Issues {} open](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jctissier/Euro2016_TerminalApp/issues?q=is%3Aopen+is%3Aissue)
