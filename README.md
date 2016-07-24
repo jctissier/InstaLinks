@@ -13,6 +13,10 @@ rule 1
 rule 2
 rule 3
 
+#Functionalities
+1. Find links to any TV Show
+2. Find list of aired TV Show episodes
+
 #TODO
 add sections
 
