@@ -16,6 +16,8 @@ rule 3
 #Functionalities
 1. Find links to any TV Show
 2. Find list of aired TV Show episodes
+3. Find links to any movie HD
+4. Movie suggestions by year and genre
 
 #TODO
 add sections
