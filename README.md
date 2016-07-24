@@ -8,6 +8,11 @@ Stream any TV Shows or Movies
 #Download
 ➡️ Download Latest Package Release: (embed link for download)
 
+#Contribute 
+rule 1
+rule 2
+rule 3
+
 #TODO
 add sections
 
