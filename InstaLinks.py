@@ -12,3 +12,5 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 # This helps you remember what was the last show you were watching
 def login_reminder():
+    shelf_file = shelve.open('mydata')
+    print(shelf_file['data'])
