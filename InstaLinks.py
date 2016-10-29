@@ -16,3 +16,8 @@ def login_reminder():
     print(shelf_file['data'])
     last_watched['data'] = data
     last_watched.close()
+
+#Main Menu simulation
+class mainMenu():
+    def __init__(self):
+        self.runMenu()
