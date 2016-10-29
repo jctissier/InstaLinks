@@ -7,3 +7,5 @@ from termcolor import cprint, colored
 from lxml import html
 import sys
 
+#Get rid of warning message
+warnings.filterwarnings("ignore", category=DeprecationWarning)
