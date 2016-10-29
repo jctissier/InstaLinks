@@ -9,3 +9,6 @@ import sys
 
 #Get rid of warning message
 warnings.filterwarnings("ignore", category=DeprecationWarning)
+
+# This helps you remember what was the last show you were watching
+def login_reminder():
