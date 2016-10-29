@@ -14,3 +14,5 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 def login_reminder():
     shelf_file = shelve.open('mydata')
     print(shelf_file['data'])
+    last_watched['data'] = data
+    last_watched.close()
