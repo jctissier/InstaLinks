@@ -21,3 +21,10 @@ def login_reminder():
 class mainMenu():
     def __init__(self):
         self.runMenu()
+        
+    def runMenu(self):
+        cprint("\n                TV SHOW                               MOVIE                         "
+               " ",'red', attrs=['underline'])
+        menu_options = colored("[1]Episode Links  [2]List of Episodes | "
+                               "[3]Movie Links  [4]Movie Suggestions  [5]Exit\n",'red', attrs=['bold'])
+
