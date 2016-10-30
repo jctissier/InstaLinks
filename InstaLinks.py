@@ -27,4 +27,5 @@ class mainMenu():
                " ",'red', attrs=['underline'])
         menu_options = colored("[1]Episode Links  [2]List of Episodes | "
                                "[3]Movie Links  [4]Movie Suggestions  [5]Exit\n",'red', attrs=['bold'])
-
+        options = input(menu_options)
+        menu_guard = ['1','2','3','4','5','6']
