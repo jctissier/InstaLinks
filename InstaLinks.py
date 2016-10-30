@@ -29,3 +29,12 @@ class mainMenu():
                                "[3]Movie Links  [4]Movie Suggestions  [5]Exit\n",'red', attrs=['bold'])
         options = input(menu_options)
         menu_guard = ['1','2','3','4','5','6']
+        while options not in menu_guard:
+            options = input(menu_options)
+        if options =="1":
+            tvLinks()
+        elif options =="2":
+            tvEpisodes()
+        elif options =="3":
+            movieLinks()
+            
